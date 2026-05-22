@@ -1,0 +1,8 @@
+target/
+*.class
+.vscode/
+.idea/
+*.iml
+.env
+.DS_Store
+Thumbs.db
